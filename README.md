@@ -1,1 +1,2 @@
-# Arduino-Project
+# The Capacitive Sensor Piano
+# Arduino Project
