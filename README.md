@@ -9,7 +9,7 @@ Speaker <br/>
 Resistors (1M OHM) <br/>
 Breadboard <br/>
 LEDs <br/>
-Passive Bzzer <br/>
+Passive Buzzer <br/>
 Weetabix Box <br/>
 Male-to-Male Jumper Wires <br/>
 Arduino UNO
